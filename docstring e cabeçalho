@@ -1,5 +1,5 @@
-oque é um cabeçalho dentro de um arquivo python, oque é um docstring e qual é a diferença de um arquivo python?
+#oque é um cabeçalho dentro de um arquivo python, oque é um docstring e qual é a diferença de um arquivo python?
 
-um arquivo python é um bloco de informações que colocamos no inicio do arquivo, antes do código principal, 
-ele não é obrigatorio mas é uma boa pratica já docstring é uma string especial, 
-usada para documentar modulos, funções, classes e até metodos, para documentar.
+""um arquivo python é um bloco de informações que colocamos no inicio do arquivo, antes do código principal,
+ ele não é obrigatorio mas é uma boa pratica já docstring é uma string especial, usada para documentar modulos, 
+funções, classes e até metodos, para documentar.""
